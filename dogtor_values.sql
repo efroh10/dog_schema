@@ -1,8 +1,11 @@
-USE e_froh
+USE e_froh;
 
-INSERT INTO dogtor_values
+INSERT INTO dogtor_table
 	( dogtor_title, dogtor_name )
 VALUES
-	('sir', 'cheems'),
-	('lord', 'walter'),
-	('serene doge', 'doge');
+	('Sir', 'Cheems'),
+	('Lord', 'Walter'),
+	('Serene Doge', 'Doge'),
+	('Baron', 'Clifford'),
+	('Count of the Red Fern', 'Dan'),
+	('Countess of the Red Fern', 'Ann');
